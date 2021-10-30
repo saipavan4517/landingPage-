@@ -1,0 +1,19 @@
+.home{
+    line-height: 70px;
+    height: 20px;
+    justify-content: center;
+    vertical-align: middle;
+}
+.Home ul {
+    list-style: none;
+    align-content: space-between;
+}
+.Home ul li{
+    height: 20px;
+    width: 30%;
+    text-align: center;
+    padding: 20px;
+     margin-left: 40%;
+    font-size: larger;
+    border: 1px solid rgb(58, 11, 38);
+}
